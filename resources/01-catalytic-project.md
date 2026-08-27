@@ -1,4 +1,4 @@
-# Resources: Make the Big Bet Legible
+# Resources: Choose Birmingham's Next Big Civic Project
 
 Challenge brief: [../challenges/01-catalytic-project.md](../challenges/01-catalytic-project.md)
 

@@ -2,8 +2,8 @@
 
 ## Timing
 
-- **No early starts.** The first project commit must be after 9:40 AM CDT on August 28, 2026. Frameworks and libraries may preexist, but the project logic and artifact must be created during the Lab.
-- **Hard submission deadline: 1:30 PM CDT.** See [SCHEDULE.md](SCHEDULE.md).
+- **No early starts.** Project work and first commits may begin at or after 9:30 AM CDT on August 28, 2026. Frameworks and libraries may preexist, but the project logic and artifact must be created during the Lab.
+- **Hard submission deadline: 2:00 PM CDT.** See [SCHEDULE.md](SCHEDULE.md).
 
 ## Submission
 

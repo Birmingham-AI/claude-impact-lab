@@ -1,5 +1,5 @@
 name: Project Submission
-description: Submit your team's project for the Birmingham Claude Impact Lab (deadline 1:30 PM CDT, August 28, 2026).
+description: Submit your team's project for the Birmingham Claude Impact Lab (deadline 2:00 PM CDT, August 28, 2026).
 title: "[Submission] Team <ID> — <Team Name>"
 labels:
   - submission
@@ -7,7 +7,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Submit once, before the 1:30 PM CDT deadline. See SUBMISSIONS.md and RULES.md before filling this out.
+        Submit once, by the 2:00 PM CDT deadline. See SUBMISSIONS.md and RULES.md before filling this out.
 
   - type: dropdown
     id: team-id
@@ -45,11 +45,11 @@ body:
     attributes:
       label: Challenge
       options:
-        - "1 — Make the Big Bet Legible"
-        - "2 — One Region, One Clear Front Door"
-        - "3 — Turn Opportunity Into a Reachable Next Step"
-        - "4 — Make the Next Safe Handoff Clear"
-        - "5 — Coordinate Food Before It Goes to Waste"
+        - "1 — Choose Birmingham's Next Big Civic Project"
+        - "2 — Make Regional Services Easier to Navigate"
+        - "3 — Make Economic Opportunity Easier to Reach"
+        - "4 — Improve the Handoff to Homelessness Services"
+        - "5 — Coordinate Birmingham's Food Support Network"
     validations:
       required: true
 

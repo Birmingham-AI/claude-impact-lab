@@ -1,7 +1,8 @@
 # Birmingham Claude Impact Lab
 
 **Date:** Friday, August 28, 2026
-**Public hours:** 9:00 AM – 3:30 PM CDT
+**Doors open:** 8:30 AM CDT
+**Event:** 9:00 AM – 3:30 PM CDT
 **Venue:** Our Community Foundation, 1531 3rd Ave N #100, Birmingham, Alabama
 
 This repository is the public participant hub for the Birmingham Claude Impact Lab. It contains everything participants, mentors, and judges need: the schedule, rules, challenge briefs, public/synthetic resource packs, the submission process, and judging criteria.
@@ -26,11 +27,11 @@ Each team chooses one primary user, one repeated moment of friction, and one obs
 
 ## Challenges
 
-1. [Make the Big Bet Legible](challenges/01-catalytic-project.md) — resources: [resources/01-catalytic-project.md](resources/01-catalytic-project.md)
-2. [One Region, One Clear Front Door](challenges/02-municipal-collaboration.md) — resources: [resources/02-municipal-collaboration.md](resources/02-municipal-collaboration.md)
-3. [Turn Opportunity Into a Reachable Next Step](challenges/03-economic-prosperity.md) — resources: [resources/03-economic-prosperity.md](resources/03-economic-prosperity.md)
-4. [Make the Next Safe Handoff Clear](challenges/04-homelessness-handoff.md) — resources: [resources/04-homelessness-handoff.md](resources/04-homelessness-handoff.md)
-5. [Coordinate Food Before It Goes to Waste](challenges/05-food-coordination.md) — resources: [resources/05-food-coordination.md](resources/05-food-coordination.md)
+1. [Choose Birmingham's Next Big Civic Project](challenges/01-catalytic-project.md) — resources: [resources/01-catalytic-project.md](resources/01-catalytic-project.md)
+2. [Make Regional Services Easier to Navigate](challenges/02-municipal-collaboration.md) — resources: [resources/02-municipal-collaboration.md](resources/02-municipal-collaboration.md)
+3. [Make Economic Opportunity Easier to Reach](challenges/03-economic-prosperity.md) — resources: [resources/03-economic-prosperity.md](resources/03-economic-prosperity.md)
+4. [Improve the Handoff to Homelessness Services](challenges/04-homelessness-handoff.md) — resources: [resources/04-homelessness-handoff.md](resources/04-homelessness-handoff.md)
+5. [Coordinate Birmingham's Food Support Network](challenges/05-food-coordination.md) — resources: [resources/05-food-coordination.md](resources/05-food-coordination.md)
 
 ## Prizes
 
@@ -41,8 +42,8 @@ Each team chooses one primary user, one repeated moment of friction, and one obs
 
 - 15 provisional teams, three per challenge (see [TEAM_ASSIGNMENTS.md](TEAM_ASSIGNMENTS.md)).
 - Lunch is included.
-- Building begins at 9:40 AM CDT. First commits may occur only after this time.
-- Hard submission deadline: 1:30 PM CDT.
+- Building begins at 9:30 AM CDT. Project work and first commits may begin at or after this time.
+- Hard submission deadline: 2:00 PM CDT.
 - One submission per team, in a public GitHub repository.
 
 ## Getting started
@@ -51,4 +52,4 @@ Each team chooses one primary user, one repeated moment of friction, and one obs
 2. Find your team ID and challenge in [TEAM_ASSIGNMENTS.md](TEAM_ASSIGNMENTS.md).
 3. Read your challenge brief and its resource pack.
 4. Create a public GitHub repository for your project using [templates/TEAM_README_TEMPLATE.md](templates/TEAM_README_TEMPLATE.md) as your README starting point.
-5. Submit using the GitHub Issue Form in this repository before 1:30 PM CDT.
+5. Submit using the GitHub Issue Form in this repository by 2:00 PM CDT.

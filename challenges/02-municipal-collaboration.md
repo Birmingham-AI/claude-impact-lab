@@ -1,6 +1,6 @@
-# Challenge 2: One Region, One Clear Front Door
+# Challenge 2: Make Regional Services Easier to Navigate
 
-**Subtitle:** Make one fragmented public service understandable across municipal boundaries.
+**Subtitle:** One region, one clear front door: make one fragmented public service understandable across municipal boundaries.
 
 - **Primary user:** Resident or frontline staff member.
 - **Repeated moment:** Who owns this?

@@ -1,6 +1,6 @@
-# Challenge 1: Make the Big Bet Legible
+# Challenge 1: Choose Birmingham's Next Big Civic Project
 
-**Subtitle:** From many worthy efforts to one shared project people can understand and join.
+**Subtitle:** Make the big bet legible: move from many worthy efforts to one shared project people can understand and join.
 
 - **Primary user:** Civic convener.
 - **Repeated moment:** Choose and mobilize.

@@ -2,7 +2,7 @@
 
 ## Deadline
 
-**1:30 PM CDT, Friday, August 28, 2026.** See [SCHEDULE.md](SCHEDULE.md). A submission warning goes out at 1:15 PM CDT.
+**2:00 PM CDT, Friday, August 28, 2026.** See [SCHEDULE.md](SCHEDULE.md). A submission warning goes out at 1:45 PM CDT.
 
 ## What to submit
 

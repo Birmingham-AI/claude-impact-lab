@@ -1,4 +1,4 @@
-# Resources: Turn Opportunity Into a Reachable Next Step
+# Resources: Make Economic Opportunity Easier to Reach
 
 Challenge brief: [../challenges/03-economic-prosperity.md](../challenges/03-economic-prosperity.md)
 

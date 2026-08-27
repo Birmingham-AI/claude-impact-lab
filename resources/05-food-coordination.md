@@ -1,4 +1,4 @@
-# Resources: Coordinate Food Before It Goes to Waste
+# Resources: Coordinate Birmingham's Food Support Network
 
 Challenge brief: [../challenges/05-food-coordination.md](../challenges/05-food-coordination.md)
 

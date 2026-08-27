@@ -1,4 +1,4 @@
-# Resources: Make the Next Safe Handoff Clear
+# Resources: Improve the Handoff to Homelessness Services
 
 Challenge brief: [../challenges/04-homelessness-handoff.md](../challenges/04-homelessness-handoff.md)
 

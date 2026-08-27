@@ -1,6 +1,6 @@
-# Challenge 4: Make the Next Safe Handoff Clear
+# Challenge 4: Improve the Handoff to Homelessness Services
 
-**Subtitle:** Help people and frontline responders navigate homelessness services with dignity.
+**Subtitle:** Make the next safe handoff clear for people and frontline responders navigating homelessness services with dignity.
 
 - **Primary user:** Person experiencing homelessness or frontline responder.
 - **Repeated moment:** What happens now?

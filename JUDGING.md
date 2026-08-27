@@ -4,8 +4,8 @@
 
 Before any project is scored, judges confirm it passes the eligibility gate:
 
-- The submission was made through the GitHub Issue Form before the 1:30 PM CDT deadline, and points to a public GitHub repository.
-- No evidence of a commit predating 9:40 AM CDT on August 28, 2026 that establishes project logic or artifact (pre-existing frameworks/libraries are fine).
+- The submission was made through the GitHub Issue Form by the 2:00 PM CDT deadline, and points to a public GitHub repository.
+- No evidence of a commit predating 9:30 AM CDT on August 28, 2026 that establishes project logic or artifact (pre-existing frameworks/libraries are fine).
 - No attendee data, private client records, confidential nonprofit data, health records, HMIS records, or other personally identifiable or sensitive data.
 - No writes to live government or nonprofit systems, no submitted tickets/referrals/applications/service requests, no scraping or overloading public services.
 - All synthetic data is labeled as synthetic and not presented as real, live, or authoritative.
@@ -36,12 +36,13 @@ Weighted total = (Real civic impact × 0.40 + Execution × 0.20 + Product or wor
 
 ## Finalist selection
 
-- **2:00 – 2:35 PM CDT — Gallery walk.** Judges review all eligible submissions at team tables. One finalist is selected per challenge (5 finalists total), based on the weighted rubric score.
+- **2:00 – 2:10 PM CDT — Gallery setup.** Teams prepare their tables while judges open the submitted project links.
+- **2:10 – 2:35 PM CDT — Gallery walk.** Five track panels each review the three teams assigned to one challenge. One finalist is selected per challenge (5 finalists total), based on the weighted rubric score.
 
 ## Winner selection
 
-- **2:40 – 3:10 PM CDT — Finalist demonstrations.** Each of the five finalists presents for 4 minutes plus 2 minutes of questions.
-- **3:10 – 3:20 PM CDT — Final judging.** Judges re-score the five finalists on the same rubric, informed by the demonstration and questions.
-- **3:20 – 3:30 PM CDT — Winner announced.** The finalist with the highest weighted total is the winner. The winning team receives Claude 20x accounts for one month.
+- **2:35 – 3:05 PM CDT — Finalist demonstrations.** Each of the five finalists presents for 4 minutes plus 2 minutes of questions.
+- **3:05 – 3:15 PM CDT — Final judging.** Judges re-score the five finalists on the same rubric, informed by the demonstration and questions.
+- **3:15 – 3:30 PM CDT — Winner and closing.** The finalist with the highest weighted total is the winner. The winning team receives Claude 20x accounts for one month.
 
 See [SCHEDULE.md](SCHEDULE.md) for full day-of timing.

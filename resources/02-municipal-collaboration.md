@@ -1,4 +1,4 @@
-# Resources: One Region, One Clear Front Door
+# Resources: Make Regional Services Easier to Navigate
 
 Challenge brief: [../challenges/02-municipal-collaboration.md](../challenges/02-municipal-collaboration.md)
 

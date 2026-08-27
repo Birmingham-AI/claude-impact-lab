@@ -1,6 +1,6 @@
-# Challenge 5: Coordinate Food Before It Goes to Waste
+# Challenge 5: Coordinate Birmingham's Food Support Network
 
-**Subtitle:** Help organizations match changing supply, demand, and service information.
+**Subtitle:** Coordinate food before it goes to waste by matching changing supply, demand, and service information.
 
 - **Primary user:** Food coordinator, resident, or frontline staff member.
 - **Repeated moment:** Where should this go?

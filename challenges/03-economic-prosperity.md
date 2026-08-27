@@ -1,6 +1,6 @@
-# Challenge 3: Turn Opportunity Into a Reachable Next Step
+# Challenge 3: Make Economic Opportunity Easier to Reach
 
-**Subtitle:** Connect economic growth to a real pathway for a resident or local business.
+**Subtitle:** Turn opportunity into a reachable next step for a resident or local business.
 
 - **Primary user:** Worker, young person, navigator, or founder.
 - **Repeated moment:** What can I do next?
