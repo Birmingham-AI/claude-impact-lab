@@ -1,0 +1,7 @@
+# This is a local organizer archive. Deny all contents by default.
+*
+
+# Only these safety notes belong in the public repository.
+!.gitignore
+!README.md
+

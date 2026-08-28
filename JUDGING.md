@@ -19,20 +19,18 @@ Each eligible project is scored 1–5 in each category. Category scores are weig
 
 | Category | Weight | Guiding question |
 |---|---|---|
-| Real civic impact | 40% | Would a Birmingham organization use or pilot this? |
-| Execution | 20% | Does it work or hold together? Can others review or reuse it? |
-| Product or workflow | 20% | Can the intended user understand and use it? |
-| Idea | 10% | Does it offer a useful or original insight? |
+| Real civic impact | 60% | Would a Birmingham organization use or pilot this? |
+| Execution against the mission | 30% | Does it work, hold together, and serve the intended user well? |
 | Presentation | 10% | Is the problem, evidence, result, limitation, and next step clear? |
 
-Weighted total = (Real civic impact × 0.40 + Execution × 0.20 + Product or workflow × 0.20 + Idea × 0.10 + Presentation × 0.10) × 20, giving a score out of 100.
+Weighted total = (Real civic impact × 0.60 + Execution against the mission × 0.30 + Presentation × 0.10) × 20, giving a score out of 100.
 
-### Execution, defined fairly across artifact types
+### Execution against the mission, defined fairly across artifact types
 
-"Execution" does not require deployed software. A project executes well when it holds together and can be reviewed or reused by someone else:
+"Execution against the mission" does not require deployed software. A project executes well when it holds together, serves the chosen user, and can be reviewed or reused by someone else:
 
-- **Software artifacts:** the code runs, is organized enough to review, and the linked repository reflects what was demoed.
-- **Non-software artifacts** (service blueprints, research artifacts, implementation plans, campaigns, operating processes): the documents, diagrams, or data are complete, internally consistent, and usable by someone else without the team present to explain them.
+- **Software artifacts:** the code runs, is organized enough to review, the linked repository reflects what was demoed, and the intended user can understand and use it.
+- **Non-software artifacts** (service blueprints, research artifacts, implementation plans, campaigns, operating processes): the documents, diagrams, or data are complete, internally consistent, usable by someone else without the team present to explain them, and the intended user can understand and use the result.
 
 ## Finalist selection
 

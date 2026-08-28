@@ -1,0 +1,19 @@
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+*.bak
+~$*
+
+# Local tool state
+.claude/
+.codex/
+
+# Credentials and local environment files
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
